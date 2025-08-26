@@ -63,24 +63,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
+  <p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavindu03-dev&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="Kavindu03-dev" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=kavindu03-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu03-dev&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindu03-dev&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"/>
-</p>
-
----
-
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/kavindu03-dev/AI-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavindu03-dev&repo=AI-Learning&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kavindu03-dev/Machine-Learning-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavindu03-dev&repo=Machine-Learning-Projects&theme=tokyonight" />
-  </a>
 </p>
 
 ---
@@ -99,13 +92,7 @@
   </a>
 </p>
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavindu03-dev/kavindu03-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavindu03-dev/kavindu03-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kavindu03-dev/kavindu03-dev/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 <!-- Footer Banner -->
