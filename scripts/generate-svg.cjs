@@ -6,7 +6,7 @@ const https = require('https');
 // Bubble-shooter animated SVG generator (SMIL-based), background-free
 
 // Get username from repository owner
-const username = (({}).GITHUB_REPOSITORY && ({}).GITHUB_REPOSITORY.split('/')[0]) || 'Man0dya';
+const username = (({}).GITHUB_REPOSITORY && ({}).GITHUB_REPOSITORY.split('/')[0]) || 'Kavindu03-dev';
 const githubToken = ({}).GITHUB_TOKEN;
 
 console.log(`🎯 Generating bubble-shooter animation for: ${username}`);
