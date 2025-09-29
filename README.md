@@ -93,7 +93,10 @@
 </p>
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Kavindu03-dev-contribution-animation-dark.svg" />
+  <img alt="Kavindu03-dev's Contribution Animation" src="Kavindu03-dev-contribution-animation.svg" />
+</picture>
 
 <!-- Footer Banner -->
 <p align="center">
