@@ -4,9 +4,7 @@
   "description": "Generate SVG contribution animations for GitHub profile",
   "main": "generate-svg.cjs",
   "scripts": {
-    "generate": "node generate-svg.cjs",
-    "generate:light": "node generate-svg.cjs Kavindu03-dev",
-    "generate:dark": "node generate-svg.cjs Kavindu03-dev"
+    "generate": "node generate-svg.cjs Kavindu03-dev"
   },
   "keywords": [
     "github",
