@@ -17,21 +17,20 @@ const config = {
 
 /**
  * Generate SVG file for contribution graph
+ * Note: This is a placeholder implementation for reference only.
+ * The actual SVG generation is handled by the Platane/snk GitHub Action.
  */
 function generateSVG() {
+  // Future implementation: Custom SVG generation logic would go here
+  // For now, outputPath is defined for reference
   const outputPath = path.join(
     config.outputDir,
     config.darkMode ? 'pacman-contribution-graph-dark.svg' : 'pacman-contribution-graph.svg'
   );
 
   console.log(`Generating SVG for ${config.username}...`);
-  console.log(`Output: ${outputPath}`);
-  
-  // Note: This is a placeholder implementation
-  // The actual SVG generation is handled by the Platane/snk GitHub Action
-  // This script serves as a reference for custom generation if needed
-  
-  console.log('SVG generation is handled by GitHub Actions workflow');
+  console.log(`Output path (reference): ${outputPath}`);
+  console.log('\nNote: SVG generation is handled by GitHub Actions workflow');
   console.log('See .github/workflows/pacman.yml for configuration');
 }
 
