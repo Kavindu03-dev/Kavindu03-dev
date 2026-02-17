@@ -1,0 +1,21 @@
+{
+  "name": "github-profile-contribution-graph",
+  "version": "1.0.0",
+  "description": "Generate SVG contribution animations for GitHub profile",
+  "main": "generate-svg.cjs",
+  "scripts": {
+    "generate": "node generate-svg.cjs Kavindu03-dev"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "contribution",
+    "svg",
+    "animation"
+  ],
+  "author": "Kavindu03-dev",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
