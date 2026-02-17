@@ -1,3 +1,8 @@
+<h2 align="left">Hi 👋! My name is Kavindu and I'm a Web Developer, from SL</h2>
+
+###
+
+
 # 💫 About Me:
 🔭 I’m currently working on Cylvor IT<br>👯 I’m looking to collaborate on Web projects<br>🌱 I’m currently learning Data science<br>💬 Ask me about AI<br>
 <br><br>
@@ -19,6 +24,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="160" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="160" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/Kavindu03-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/Kavindu03-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/Kavindu03-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <br><br>
