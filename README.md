@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kavindu and I'm a Web Developer, from SL</h2>
+<h2 align="left">Hi 👋! My name is Kavindu and I'm a Data Analyst, from SL</h2>
 
 ###
 
